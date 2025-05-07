@@ -12,3 +12,6 @@
 
 #### Quote Text
 > quote quote
+
+#### Quote Code
+~ code quotes ~
