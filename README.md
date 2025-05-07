@@ -38,3 +38,6 @@ Link to [youtube](https://youtube.com)
 1. item 1
 2. item 2
 3. item 3
+
+#### Images
+![Image of a sea](jpeg.jpg)
