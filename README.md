@@ -14,4 +14,4 @@
 > quote quote
 
 #### Quote Code
-~ code quotes ~
+`code quotes`
