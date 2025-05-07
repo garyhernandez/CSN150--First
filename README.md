@@ -1,8 +1,8 @@
 # CSN150--First
-First Github Repo
+**First Github Repo**
 
 ## Heading 2
-text
+* *text* *
 
 ### Heading 3
-text
+~~text~~
