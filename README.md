@@ -2,7 +2,7 @@
 **First Github Repo**
 
 ## Heading 2
-* *text* *
+_ _text_ _
 
 ### Heading 3
 ~~text~~
